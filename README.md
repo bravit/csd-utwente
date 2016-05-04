@@ -1,5 +1,7 @@
 # Certified Software Development with Dependent Types in Idris
 
+[Repo with assignments](https://github.com/mmcs-sfedu-courses/csd-utwente-assignments) (for those who sent me github account)
+
 ## Lecture 1
 
 * [slides](https://github.com/bravit/csd-utwente/blob/master/lect01.pdf)
@@ -9,3 +11,6 @@
 ## Lecture 2
 
 * [code](https://github.com/bravit/csd-utwente/blob/master/lect02/)
+
+## Lecture 3
+* [slides]
