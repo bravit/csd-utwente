@@ -13,4 +13,5 @@
 * [code](https://github.com/bravit/csd-utwente/blob/master/lect02/)
 
 ## Lecture 3
-* [slides]
+* [slides](lect03.pdf)
+* [code](lect03/)
