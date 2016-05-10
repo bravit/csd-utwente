@@ -21,5 +21,5 @@
 * [code](lect04/)
 
 ## Lecture 5: functions over types
-* [slides]
-* [code]
+* [slides](lect05.pdf)
+* [code](lect05/)
