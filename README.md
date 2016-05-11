@@ -23,3 +23,7 @@
 ## Lecture 5: functions over types
 * [slides](lect05.pdf)
 * [code](lect05/)
+
+## Lecture 6: interfaces, modules, namespaces
+* [slides](lect06.pdf)
+* [code](lect06/)
