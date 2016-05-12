@@ -27,3 +27,6 @@
 ## Lecture 6: interfaces, modules, namespaces
 * [slides](lect06.pdf)
 * [code](lect06/)
+
+## Lecture 7: provable equality and decidability
+* [code](lect07/)
