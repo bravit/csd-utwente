@@ -30,3 +30,6 @@
 
 ## Lecture 7: provable equality and decidability
 * [code](lect07/)
+
+## Lecture 8: provable comparisons and sortedness
+* [code](lect08/)
