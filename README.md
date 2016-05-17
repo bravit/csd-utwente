@@ -33,3 +33,6 @@
 
 ## Lecture 8: provable comparisons and sortedness
 * [code](lect08/)
+
+## Lecture 9: expressing relations with Elem, with construction
+* [code](lect09/)
