@@ -36,3 +36,7 @@
 
 ## Lecture 9: expressing relations with Elem, with construction
 * [code](lect09/)
+
+## Lecture 10: effectful computations
+* [slides](lect10.pdf)
+* [code](lect10/)
