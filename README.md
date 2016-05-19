@@ -40,3 +40,7 @@
 ## Lecture 10: effectful computations
 * [slides](lect10.pdf)
 * [code](lect10/)
+
+## Lecture 11: defining EDSLs
+* [slides](lect11.pdf)
+* [code](lect11/)
